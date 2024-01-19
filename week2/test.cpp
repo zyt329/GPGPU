@@ -2,6 +2,7 @@
 
 int main()
 {
+
     int n = 12;
     float **ptr = new float *[n];
     printf("initialized ptr=%d\n", ptr);
